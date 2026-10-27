@@ -1,0 +1,12 @@
+[submodule "asst1"]
+	path = asst1
+	url = https://github.com/stanford-cs149/asst1
+[submodule "asst2"]
+	path = asst2
+	url = https://github.com/stanford-cs149/asst2
+[submodule "asst3"]
+	path = asst3
+	url = https://github.com/stanford-cs149/asst3
+[submodule "asst4"]
+	path = asst4
+	url = https://github.com/stanford-cs149/cs149gpt
